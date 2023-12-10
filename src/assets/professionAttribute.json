@@ -1,0 +1,370 @@
+[
+  {
+    "background": "角斗士",
+    "health": {
+      "isGrowable": true,
+      "min": 50,
+      "max": 60
+    },
+    "meleeSkill": {
+      "isGrowable": true,
+      "min": 60,
+      "max": 67
+    },
+    "rangeSkill": {
+      "isGrowable": true,
+      "min": 40,
+      "max": 48
+    },
+    "meleeDefense": {
+      "isGrowable": true,
+      "min": 5,
+      "max": 13
+    },
+    "rangedDefense": {
+      "isGrowable": true,
+      "min": 5,
+      "max": 13
+    },
+    "fatigue": {
+      "isGrowable": true,
+      "min": 90,
+      "max": 100
+    },
+    "resolve": {
+      "isGrowable": true,
+      "min": 35,
+      "max": 45
+    },
+    "initiative": {
+      "isGrowable": true,
+      "min": 100,
+      "max": 110
+    },
+    "initialLevel": "2-4",
+    "baseDailySalary": 35,
+    "additionalFeatures": "起源时 50 日薪"
+  },
+  {
+    "background": "雇佣骑士",
+    "health": {
+      "isGrowable": true,
+      "min": 62,
+      "max": 73
+    },
+    "meleeSkill": {
+      "isGrowable": true,
+      "min": 58,
+      "max": 67
+    },
+    "rangeSkill": {
+      "isGrowable": false,
+      "min": 32,
+      "max": 42
+    },
+    "meleeDefense": {
+      "isGrowable": true,
+      "min": 6,
+      "max": 10
+    },
+    "rangedDefense": {
+      "isGrowable": true,
+      "min": 0,
+      "max": 5
+    },
+    "fatigue": {
+      "isGrowable": true,
+      "min": 105,
+      "max": 110
+    },
+    "resolve": {
+      "isGrowable": true,
+      "min": 39,
+      "max": 44
+    },
+    "initiative": {
+      "isGrowable": false,
+      "min": 86,
+      "max": 103
+    },
+    "initialLevel": "2-5",
+    "baseDailySalary": 35,
+    "additionalFeatures": "无"
+  },
+  {
+    "background": "佣兵",
+    "health": {
+      "isGrowable": true,
+      "min": 50,
+      "max": 60
+    },
+    "meleeSkill": {
+      "isGrowable": true,
+      "min": 60,
+      "max": 67
+    },
+    "rangeSkill": {
+      "isGrowable": true,
+      "min": 44,
+      "max": 52
+    },
+    "meleeDefense": {
+      "isGrowable": true,
+      "min": 5,
+      "max": 13
+    },
+    "rangedDefense": {
+      "isGrowable": true,
+      "min": 5,
+      "max": 13
+    },
+    "fatigue": {
+      "isGrowable": true,
+      "min": 90,
+      "max": 100
+    },
+    "resolve": {
+      "isGrowable": true,
+      "min": 35,
+      "max": 45
+    },
+    "initiative": {
+      "isGrowable": true,
+      "min": 100,
+      "max": 110
+    },
+    "initialLevel": "2-4",
+    "baseDailySalary": 35,
+    "additionalFeatures": "无"
+  },
+  {
+    "background": "剑术大师",
+    "health": {
+      "isGrowable": true,
+      "min": 38,
+      "max": 48
+    },
+    "meleeSkill": {
+      "isGrowable": true,
+      "min": 72,
+      "max": 77
+    },
+    "rangeSkill": {
+      "isGrowable": false,
+      "min": 27,
+      "max": 37
+    },
+    "meleeDefense": {
+      "isGrowable": true,
+      "min": 10,
+      "max": 20
+    },
+    "rangedDefense": {
+      "isGrowable": true,
+      "min": 0,
+      "max": 5
+    },
+    "fatigue": {
+      "isGrowable": true,
+      "min": 75,
+      "max": 90
+    },
+    "resolve": {
+      "isGrowable": true,
+      "min": 42,
+      "max": 50
+    },
+    "initiative": {
+      "isGrowable": true,
+      "min": 90,
+      "max": 100
+    },
+    "initialLevel": "3-5",
+    "baseDailySalary": 35,
+    "additionalFeatures": "无"
+  },
+  {
+    "background": "改变信仰的十字军战士",
+    "health": {
+      "isGrowable": true,
+      "min": 50,
+      "max": 60
+    },
+    "meleeSkill": {
+      "isGrowable": true,
+      "min": 60,
+      "max": 67
+    },
+    "rangeSkill": {
+      "isGrowable": true,
+      "min": 44,
+      "max": 52
+    },
+    "meleeDefense": {
+      "isGrowable": true,
+      "min": 5,
+      "max": 13
+    },
+    "rangedDefense": {
+      "isGrowable": true,
+      "min": 5,
+      "max": 13
+    },
+    "fatigue": {
+      "isGrowable": true,
+      "min": 90,
+      "max": 100
+    },
+    "resolve": {
+      "isGrowable": true,
+      "min": 35,
+      "max": 40
+    },
+    "initiative": {
+      "isGrowable": true,
+      "min": 100,
+      "max": 110
+    },
+    "initialLevel": "2-4",
+    "baseDailySalary": 30,
+    "additionalFeatures": "无"
+  },
+  {
+    "background": "国王的护卫",
+    "health": {
+      "isGrowable": false,
+      "min": 45,
+      "max": 65
+    },
+    "meleeSkill": {
+      "isGrowable": true,
+      "min": 54,
+      "max": 64
+    },
+    "rangeSkill": {
+      "isGrowable": false,
+      "min": 27,
+      "max": 42
+    },
+    "meleeDefense": {
+      "isGrowable": true,
+      "min": 7,
+      "max": 12
+    },
+    "rangedDefense": {
+      "isGrowable": true,
+      "min": 7,
+      "max": 12
+    },
+    "fatigue": {
+      "isGrowable": false,
+      "min": 90,
+      "max": 120
+    },
+    "resolve": {
+      "isGrowable": false,
+      "min": 45,
+      "max": 55
+    },
+    "initiative": {
+      "isGrowable": false,
+      "min": 85,
+      "max": 110
+    },
+    "initialLevel": "2",
+    "baseDailySalary": 30,
+    "additionalFeatures": "无"
+  },
+  {
+    "background": "近战游牧民",
+    "health": {
+      "isGrowable": true,
+      "min": 50,
+      "max": 60
+    },
+    "meleeSkill": {
+      "isGrowable": true,
+      "min": 59,
+      "max": 67
+    },
+    "rangeSkill": {
+      "isGrowable": true,
+      "min": 37,
+      "max": 42
+    },
+    "meleeDefense": {
+      "isGrowable": true,
+      "min": 6,
+      "max": 10
+    },
+    "rangedDefense": {
+      "isGrowable": true,
+      "min": 6,
+      "max": 10
+    },
+    "fatigue": {
+      "isGrowable": true,
+      "min": 92,
+      "max": 100
+    },
+    "resolve": {
+      "isGrowable": true,
+      "min": 30,
+      "max": 37
+    },
+    "initiative": {
+      "isGrowable": true,
+      "min": 100,
+      "max": 110
+    },
+    "initialLevel": "2-4",
+    "baseDailySalary": 28,
+    "additionalFeatures": "无"
+  },
+  {
+    "background": "赌徒",
+    "health": {
+      "isGrowable": true,
+      "min": 48,
+      "max": 58
+    },
+    "meleeSkill": {
+      "isGrowable": true,
+      "min": 47,
+      "max": 57
+    },
+    "rangeSkill": {
+      "isGrowable": true,
+      "min": 32,
+      "max": 42
+    },
+    "meleeDefense": {
+      "isGrowable": true,
+      "min": 0,
+      "max": 7
+    },
+    "rangedDefense": {
+      "isGrowable": true,
+      "min": 2,
+      "max": 13
+    },
+    "fatigue": {
+      "isGrowable": true,
+      "min": 84,
+      "max": 95
+    },
+    "resolve": {
+      "isGrowable": true,
+      "min": 42,
+      "max": 52
+    },
+    "initiative": {
+      "isGrowable": true,
+      "min": 112,
+      "max": 129
+    },
+    "initialLevel": "2",
+    "baseDailySalary": 6,
+    "additionalFeatures": "无"
+  }
+]

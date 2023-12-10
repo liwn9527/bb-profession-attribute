@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: 'AtkinsonHyperlegible';
+    src: url('./assets/fonts/AtkinsonHyperlegible-Bold.ttf') format('truetype')
+  }
+
+  td, th {
+    @apply p-1 text-center
+  }
+}
